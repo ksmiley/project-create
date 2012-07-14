@@ -1,0 +1,5 @@
+This project depends on two external libraries: FX.php, for communicating with FileMaker Pro; and Savant, a simple templating library. They would go here, but I didn't want to redistribute them.
+
+FX.php has moved to GitHub: https://github.com/yodarunamok/fxphp. This project has only been tested against version 4.2 of the library, which unfortunately does not appear to be available anymore. The API has been fairly stable, though, so the current version will likely work. Copy these three files to a directory in your PHP include path: FX.php, FX_Error.php, FX_constants.php.
+
+Savant3 is available from PEAR or from its site: http://phpsavant.com/download/. If you install manually, make sure Savant3.php and its other source files are in your PHP include path.

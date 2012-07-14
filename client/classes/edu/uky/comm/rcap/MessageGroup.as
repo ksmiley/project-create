@@ -1,0 +1,1 @@
+﻿package edu.uky.comm.rcap{	import edu.uky.comm.rcap.MessageType;		public class MessageGroup	{		public var messages:Array;		public var type:String;		//public var priority:Number;				public function MessageGroup(inType:String = null):void		{			messages = new Array();			type = inType;		}	}}

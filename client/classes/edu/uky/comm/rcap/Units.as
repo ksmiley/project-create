@@ -1,0 +1,1 @@
+﻿package edu.uky.comm.rcap{	public class Units	{		public static const PIXELS = "px";		public static const POINTS = "pt";		public static const INCHES = "in";		public static const CENTIMETERS = "cm";	}}

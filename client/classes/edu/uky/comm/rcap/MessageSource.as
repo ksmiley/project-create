@@ -1,0 +1,1 @@
+﻿package edu.uky.comm.rcap{	public class MessageSource	{		public static const SERVER = "server";		public static const USER = "user";	}}

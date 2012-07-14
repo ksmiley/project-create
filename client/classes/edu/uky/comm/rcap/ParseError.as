@@ -1,0 +1,1 @@
+﻿package edu.uky.comm.rcap{	public class ParseError extends Error	{		public function ParseError(message:String, errorID:int = 0):void		{			super(message, errorID);		}	}}

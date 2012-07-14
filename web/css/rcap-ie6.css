@@ -1,0 +1,55 @@
+#content {
+	width:714px;
+	padding:15px 10px;
+}
+
+#content.loginpage {
+	height: 350px;
+}
+
+#login-user, #login-pass {
+	width: 150px;
+	margin-bottom: 8px;
+}
+
+.long-form input {
+	margin-bottom: 10px;
+	float: left;
+	width: 160px;
+}
+
+.long-form .actions input {
+	float: none;
+	width: auto;
+	margin-bottom: 0;
+}
+
+#field-state { margin-right:115px; }
+
+#poster-preview-sheet div a img {
+	display: none;
+}
+
+#poster-preview-sheet div a {
+	display: block;
+}
+
+#poster-preview-sheet div a:hover {
+	background-color: #CCD5D2;
+}
+
+#poster-preview-sheet div.selected a:hover {
+	background-color: #7c8f96;
+}
+
+#poster-order-bar {
+	width:690px;
+}
+
+#poster-order-preview img {
+	width: expression(this.width > 350 ? "350px" : true);
+}
+
+#navcontainer ul li {
+	height:100%;
+}

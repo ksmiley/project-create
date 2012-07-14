@@ -1,0 +1,1 @@
+﻿package edu.uky.comm.rcap{	public class PosterImageCrop	{		public static const TOPLEFT = "topleft";		public static const BOTTOMRIGHT = "bottomright";		public static const CENTER = "center";		public static const NONE = "none";	}}

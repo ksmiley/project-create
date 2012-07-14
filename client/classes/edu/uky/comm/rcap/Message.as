@@ -1,0 +1,1 @@
+﻿package edu.uky.comm.rcap{	public class Message	{		public var text:String;		public var source:String;				public function Message(value:String = null, from:String = null):void		{			text = value;			source = from;		}				public function toString():String		{			return text;		}	}}
